@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5W6s9KnaRhQ_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Lean Tool: Improving Process Flow</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Lean_Tool:_Improving_Process_Flow_ORG">
+    <organization identifier="Lean_Tool:_Improving_Process_Flow_ORG">
+      <title>Lean Tool: Improving Process Flow</title>
+      <item identifier="Lean_Tool_Improving_Process_Flow_SCO" isvisible="true" identifierref="__5W6s9KnaRhQ_course_id_RES">
+        <title>Lean Tool_Improving Process Flow</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5W6s9KnaRhQ_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_DX1440_DY1440_CX1133_CY755.jpg" />
+      <file href="story_content/6aRzGhlI18l_44100_64_1.mp3" />
+      <file href="story_content/5pH9DFXlV0K_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/6ThjFQQ6MMc_44100_64_1.mp3" />
+      <file href="mobile/5k375AFalmW_80_P_512_0_1023_1538_DX1438_DY1438_CX565_CY849.png" />
+      <file href="story_content/5sUTHFBVhUz_44100_64_1.mp3" />
+      <file href="mobile/5zlyXlIdHcj_80_P_512_0_1022_1536_DX1440_DY1440_CX565_CY849.png" />
+      <file href="story_content/6qxw8gr6QoM_44100_64_1.mp3" />
+      <file href="mobile/62SFfR6Esxc_80_P_433_0_1181_1775_DX1246_DY1246_CX565_CY849.png" />
+      <file href="story_content/5hBStXVAj6W_44100_64_1.mp3" />
+      <file href="mobile/6iyDr1hyQak_80_P_562_0_922_1386_DX1596_DY1596_CX565_CY849.png" />
+      <file href="story_content/5svlOtjrVhB_44100_64_1.mp3" />
+      <file href="story_content/6YPez1q9BGr_44100_64_1.mp3" />
+      <file href="mobile/5yzAfqT8Qyo_80_P_537_0_973_1463_DX1512_DY1512_CX565_CY849.png" />
+      <file href="story_content/5t3p5sUwOh0_44100_64_1.mp3" />
+      <file href="mobile/6bOWlIMBYhf_80_P_0_0_1363_2048_DX1080_DY1080_CX565_CY849.png" />
+      <file href="story_content/5ZfdBjmukJ4_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/6ZmV6hVqCRZ_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/69228LdNxIC_44100_64_1.mp3" />
+      <file href="story_content/65bQf6VKVu2_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/5pPHvsOkf7L_80_DX523_DY533_CX523_CY533.jpg" />
+      <file href="story_content/6eeQAqTdM5S_44100_64_1.mp3" />
+      <file href="mobile/6OIM8MD15ss_80_DX582_DY564_CX582_CY564.jpg" />
+      <file href="story_content/6VW5dsO5ygp_44100_64_1.mp3" />
+      <file href="story_content/5koPXuSLTDE_44100_64_1.mp3" />
+      <file href="story_content/6QvqJfFhSke_44100_64_1.mp3" />
+      <file href="story_content/5h5acnZAFUs_44100_64_1.mp3" />
+      <file href="story_content/6MzwiXJoohO_44100_64_1.mp3" />
+      <file href="mobile/6M4NbvhsQSj_80_P_519_0_1009_1516_DX1460_DY1460_CX565_CY849.png" />
+      <file href="story_content/6DAMFWXbHxZ_44100_64_1.mp3" />
+      <file href="story_content/5VckGT8Fjbh_44100_64_1.mp3" />
+      <file href="story_content/video_5W8ssI5mm2B_21_64_428x264.mp4" />
+      <file href="mobile/poster_6h3KpRWpeti_video_5W8ssI5mm2B_21_64_428x264.jpg" />
+      <file href="story_content/6HYUgkCt6c5_44100_64_1.mp3" />
+      <file href="story_content/video_5k0mZd7UAqJ_21_64_486x280.mp4" />
+      <file href="mobile/poster_6FhqrL0S0nJ_video_5k0mZd7UAqJ_21_64_486x280.jpg" />
+      <file href="story_content/6V5KyFBUEef_44100_64_1.mp3" />
+      <file href="story_content/video_61iMMtMdXkj_21_64_440x240.mp4" />
+      <file href="mobile/poster_60KeneEHP2j_video_61iMMtMdXkj_21_64_440x240.jpg" />
+      <file href="story_content/5VSGVFGp4bf_44100_64_1.mp3" />
+      <file href="story_content/video_6rnqB3tO3rg_21_64_600x310.mp4" />
+      <file href="mobile/poster_5Ynz9o8NvFj_video_6rnqB3tO3rg_21_64_600x310.jpg" />
+      <file href="story_content/6G8j9fSQ4L6_44100_64_1.mp3" />
+      <file href="story_content/video_6Bf1S5tfxLv_21_64_582x300.mp4" />
+      <file href="mobile/poster_5WjcwF1cJMp_video_6Bf1S5tfxLv_21_64_582x300.jpg" />
+      <file href="story_content/6hyLEWMJEG1_44100_64_1.mp3" />
+      <file href="mobile/6J6jIRrlqKu_80_DX1170_DY1170_CX920_CY458.jpg" />
+      <file href="story_content/6JYWXNFxqT6_44100_64_1.mp3" />
+      <file href="mobile/6rlyBXosVQ6_80_DX732_DY479_CX732_CY479.jpg" />
+      <file href="mobile/6RcKpBqai0S_80_DX732_DY485_CX732_CY485.jpg" />
+      <file href="story_content/6X4n3gJPMQu_44100_64_1.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/68UoffBh2sG.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA77 Tool_Improving Process Flow.pdf" />
+      <file href="mobile/txt__default_5pI1kIXIFyg.png" />
+      <file href="mobile/txt__default_5wi2qiOxNId.png" />
+      <file href="mobile/Shape61eNY3fHA9i.png" />
+      <file href="mobile/Shape6LjSU9JlbHD.png" />
+      <file href="mobile/Shape6gMQUYKuP9T.png" />
+      <file href="mobile/Shape6jyEqI9SHoK.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aHRsr8cYaS.js" />
+      <file href="html5/data/js/5cOQkDbxzbl.js" />
+      <file href="html5/data/js/5esx6gU1Yj3.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5jR4lD3iEn1.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5lDorwPhI87.js" />
+      <file href="html5/data/js/5nMCrKkQCF9.js" />
+      <file href="html5/data/js/5oWZIQXRhT0.js" />
+      <file href="html5/data/js/5WOlNun6fct.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5xzGHgVxB45.js" />
+      <file href="html5/data/js/60DjOol4qdQ.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/62hC47RDFDp.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6CfyzhYl8g6.js" />
+      <file href="html5/data/js/6ci8HFJVBJH.js" />
+      <file href="html5/data/js/6COdX64cHDU.js" />
+      <file href="html5/data/js/6D3J7uDun22.js" />
+      <file href="html5/data/js/6eguD3K2xJQ.js" />
+      <file href="html5/data/js/6fh1EAUQI7O.js" />
+      <file href="html5/data/js/6HQSgm6C0En.js" />
+      <file href="html5/data/js/6jxsz5Pbpa6.js" />
+      <file href="html5/data/js/6KOOOTaAug9.js" />
+      <file href="html5/data/js/6lzIH4bRnF1.js" />
+      <file href="html5/data/js/6qRVdeKhRcx.js" />
+      <file href="html5/data/js/6qxIRf5FLz3.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6UmyWQOEwfA.js" />
+      <file href="html5/data/js/6XU7YEPGd2u.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

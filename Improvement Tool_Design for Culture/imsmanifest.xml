@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5fx6qX0A9uK_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Design for Culture</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Design_for_Culture_ORG">
+    <organization identifier="Improvement_Tool:_Design_for_Culture_ORG">
+      <title>Improvement Tool: Design for Culture</title>
+      <item identifier="Improvement_Tool_Design_for_Culture_SCO" isvisible="true" identifierref="__5fx6qX0A9uK_course_id_RES">
+        <title>Improvement Tool_Design for Culture</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5fx6qX0A9uK_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="mobile/6WlAFTBA8y2_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="mobile/6AzwACi12v7_P_512_0_1022_1536_DX1440_DY1440_CX565_CY849.png" />
+      <file href="story_content/video_5hxOhvTT45C_22_64_640x432.mp4" />
+      <file href="mobile/poster_6hiRjTzR17G_video_5hxOhvTT45C_22_64_640x432.jpg" />
+      <file href="mobile/5cqQEm9uuQq_DX870_DY870_CX684_CY516.png" />
+      <file href="mobile/63iYYVtWKQa_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="mobile/6QwNt5eKMWB_P_1_0_1363_2048_DX1080_DY1080_CX565_CY849.png" />
+      <file href="mobile/6qBU1YNP5Zb_P_570_0_907_1363_DX1622_DY1622_CX565_CY849.png" />
+      <file href="mobile/6f3J5lLylpP_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="mobile/6litWQ46x0p_P_570_0_907_1363_DX1622_DY1622_CX565_CY849.png" />
+      <file href="mobile/5XrTOiHndd3_P_570_0_907_1363_DX1622_DY1622_CX565_CY849.png" />
+      <file href="mobile/6g2JLS4UIMo_P_754_0_539_811_DX2728_DY2728_CX540_CY811.png" />
+      <file href="mobile/6SHBbdVAYFF_P_484_0_1079_1622_DX1364_DY1364_CX565_CY849.png" />
+      <file href="mobile/6gKKmyJAqGU_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="mobile/60gpXqGvHPm_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="mobile/6aXYykfaUzv_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6GDEBXWfirq_DX466_DY444_CX466_CY444.jpg" />
+      <file href="mobile/6ZzsfrXqQzJ_DX408_DY241_CX408_CY241.jpg" />
+      <file href="mobile/6H43mj0H6Uy_DX742_DY742_CX371_CY308.jpg" />
+      <file href="mobile/5yoh8j27mJ0_DX1068_DY1068_CX534_CY377.jpg" />
+      <file href="mobile/6RUJlD3HX9W_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/6lioHHFUJTp.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA80 Tool_Design for Culture.pdf" />
+      <file href="mobile/txt__default_5vYNqbTieVY.png" />
+      <file href="mobile/Shape6JYEYbB4fQf.png" />
+      <file href="mobile/Shape6LEoDcwl0hd.png" />
+      <file href="mobile/txt__default_6VIfJISLZxP.png" />
+      <file href="mobile/txt__default_5dJ36IhuWXl.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5ajLAsI8LvB.js" />
+      <file href="html5/data/js/5akvdC3ZW3z.js" />
+      <file href="html5/data/js/5cv0mcmqB0q.js" />
+      <file href="html5/data/js/5ednEa3dd1c.js" />
+      <file href="html5/data/js/5fVrMRcqLaG.js" />
+      <file href="html5/data/js/5gDDHiWTALZ.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5i5UUp4XF16.js" />
+      <file href="html5/data/js/5jDFGDYAXqV.js" />
+      <file href="html5/data/js/5jseQyfBCa8.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5mqn921UNpx.js" />
+      <file href="html5/data/js/5nxRL3BaIma.js" />
+      <file href="html5/data/js/5pfF5CH4pF4.js" />
+      <file href="html5/data/js/5pFxxqN6TfT.js" />
+      <file href="html5/data/js/5u9w7mPSvxv.js" />
+      <file href="html5/data/js/5VGbXtgM2I8.js" />
+      <file href="html5/data/js/5VgkWkmUBXi.js" />
+      <file href="html5/data/js/5vSmnON6zFU.js" />
+      <file href="html5/data/js/5WTjZAoA0tf.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5yfzbQVesEK.js" />
+      <file href="html5/data/js/5zMhbOUSeJT.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/63qesiOrVSZ.js" />
+      <file href="html5/data/js/66SpeP1eFJk.js" />
+      <file href="html5/data/js/6C4PHWdJSM9.js" />
+      <file href="html5/data/js/6c6M3h41FrN.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6CfwpsVl3xD.js" />
+      <file href="html5/data/js/6DCx2ipnTEv.js" />
+      <file href="html5/data/js/6EVo63KxYYQ.js" />
+      <file href="html5/data/js/6gBD1tEdRzs.js" />
+      <file href="html5/data/js/6gExo8oog1r.js" />
+      <file href="html5/data/js/6GQL3gDXqwJ.js" />
+      <file href="html5/data/js/6HzJbnLbOoY.js" />
+      <file href="html5/data/js/6IQIsuWurew.js" />
+      <file href="html5/data/js/6J8QunLivUl.js" />
+      <file href="html5/data/js/6jcEs3OeWnm.js" />
+      <file href="html5/data/js/6Ji4OgQDTIK.js" />
+      <file href="html5/data/js/6JULLGVmZ3k.js" />
+      <file href="html5/data/js/6jwAIzamXLB.js" />
+      <file href="html5/data/js/6JXdiWfLTEX.js" />
+      <file href="html5/data/js/6LUbkCMMEmA.js" />
+      <file href="html5/data/js/6mPi4Cq0mXX.js" />
+      <file href="html5/data/js/6MuPV4LmbGG.js" />
+      <file href="html5/data/js/6nkKCUGzL7o.js" />
+      <file href="html5/data/js/6Np6okS2wp8.js" />
+      <file href="html5/data/js/6OOcz5DP46a.js" />
+      <file href="html5/data/js/6oPYHx614Bo.js" />
+      <file href="html5/data/js/6Ou5YloOMrI.js" />
+      <file href="html5/data/js/6QjRAbvVKcW.js" />
+      <file href="html5/data/js/6QtAnKlMyoC.js" />
+      <file href="html5/data/js/6rfefi3OPD8.js" />
+      <file href="html5/data/js/6RINgUGIXc3.js" />
+      <file href="html5/data/js/6S62VWPvSP2.js" />
+      <file href="html5/data/js/6SQXzbMYqaj.js" />
+      <file href="html5/data/js/6ThYxq4pNLV.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6ZniHblhgCV.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
