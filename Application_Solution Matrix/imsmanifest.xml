@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5cA0OFZRz3c_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Application: Solution Matrix</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Application:_Solution_Matrix_ORG">
+    <organization identifier="Application:_Solution_Matrix_ORG">
+      <title>Application: Solution Matrix</title>
+      <item identifier="Application_Solution_Matrix_SCO" isvisible="true" identifierref="__5cA0OFZRz3c_course_id_RES">
+        <title>Application_Solution Matrix</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5cA0OFZRz3c_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5bK5FoF8qib_80_P_0_0_1643_1234_DX1790_DY1790_CX1131_CY849.png" />
+      <file href="mobile/65qB4ehnTYG_80_P_570_0_907_1363_DX1622_DY1622_CX565_CY849.png" />
+      <file href="mobile/5rp2nVDWiuP_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="mobile/6qKvxn5lC2V_80_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="mobile/6Kl3sI5lyJh_80_P_0_428_1587_1190_DX1858_DY1858_CX1132_CY849.png" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6NAOmzUCgTQ.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5npl3uQbVfZ.js" />
+      <file href="html5/data/js/61DFI9d7Th8.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/69bvxz90uvj.js" />
+      <file href="html5/data/js/6AfnCG20ExW.js" />
+      <file href="html5/data/js/6dhWpNvoqdF.js" />
+      <file href="html5/data/js/6mvpYq7sy3G.js" />
+      <file href="html5/data/js/6QFksHsxlQe.js" />
+      <file href="html5/data/js/6qpuRFnf1N8.js" />
+      <file href="html5/data/js/6YId9okfqK5.js" />
+      <file href="html5/data/js/6YxG9q0x76Z.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
