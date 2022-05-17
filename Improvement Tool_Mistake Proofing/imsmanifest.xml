@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6KEZ8wyxF2Y_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Mistake Proofing</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Mistake_Proofing_ORG">
+    <organization identifier="Improvement_Tool:_Mistake_Proofing_ORG">
+      <title>Improvement Tool: Mistake Proofing</title>
+      <item identifier="Improvement_Tool_Mistake_Proofing_SCO" isvisible="true" identifierref="__6KEZ8wyxF2Y_course_id_RES">
+        <title>Improvement Tool_Mistake Proofing</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6KEZ8wyxF2Y_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/6ogdWCQr880_44100_64_1.mp3" />
+      <file href="story_content/6Rkksc4dpdk_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/6NG7pAS6XWT_44100_64_1.mp3" />
+      <file href="mobile/5npAZmILQb0_80_P_572_0_902_1356_DX1632_DY1632_CX565_CY849.png" />
+      <file href="story_content/63tidWj6ekU_44100_64_1.mp3" />
+      <file href="mobile/6Y7cwB6OJvl_80_DX812_DY812_CX406_CY225.jpg" />
+      <file href="story_content/6BwVCNjfITS_44100_64_1.mp3" />
+      <file href="mobile/6FXblnxYqaz_80_DX480_DY480_CX377_CY251.jpg" />
+      <file href="mobile/5d4ZYSlXJCZ_80_DX480_DY480_CX377_CY251.jpg" />
+      <file href="mobile/5y2pwy6gI4I_80_DX480_DY480_CX340_CY251.jpg" />
+      <file href="story_content/5bi9xRcK6iT_44100_64_1.mp3" />
+      <file href="story_content/6Gz99fNsw5X_44100_64_1.mp3" />
+      <file href="mobile/5e4DUmWXxMo_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6iHVypyOAhs_44100_64_1.mp3" />
+      <file href="story_content/6Qz3nJ4aMYg_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/6i943VhyQR3_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5WkZJ1cByad_44100_64_1.mp3" />
+      <file href="mobile/62B0soRugpD_80_DX1440_DY1440_CX1132_CY508.png" />
+      <file href="mobile/5lu1l9ii0a0_80_DX716_DY716_CX563_CY422.jpg" />
+      <file href="mobile/5tBeADBokjm_80_DX784_DY784_CX616_CY462.png" />
+      <file href="story_content/6MIc6ZZrBD4_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/5XhmF0hoRAX.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA84 Tool_Mistake Proofing.pdf" />
+      <file href="mobile/txt__default_6jl8q5j9ifI.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5b3RAen3u6o.js" />
+      <file href="html5/data/js/5bQiwyGyq3U.js" />
+      <file href="html5/data/js/5doLtm73wSh.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5jDzKmYo0HV.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5qgCRgjAmTb.js" />
+      <file href="html5/data/js/5sPXEIQlYay.js" />
+      <file href="html5/data/js/5ugaVrOOxUP.js" />
+      <file href="html5/data/js/5VznsZNe9dh.js" />
+      <file href="html5/data/js/5wKKYMS7sow.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5Xmtu5zy0xN.js" />
+      <file href="html5/data/js/5xTt63tyniP.js" />
+      <file href="html5/data/js/5Z81xnkQlCg.js" />
+      <file href="html5/data/js/5zkHHPHICA5.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/678NYgT1HuK.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6EGLKYxpkgC.js" />
+      <file href="html5/data/js/6HdlH0RCP1g.js" />
+      <file href="html5/data/js/6JiDnh7xfX9.js" />
+      <file href="html5/data/js/6lqjBqEArK1.js" />
+      <file href="html5/data/js/6psDxTYlV2D.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6V6mGMfw02J.js" />
+      <file href="html5/data/js/6XVkkdP3nE5.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
