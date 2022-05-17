@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5lNnsqbHZDf_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Pugh Matrix</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Pugh_Matrix_ORG">
+    <organization identifier="Improvement_Tool:_Pugh_Matrix_ORG">
+      <title>Improvement Tool: Pugh Matrix</title>
+      <item identifier="Improvement_Tool_Pugh_Matrix_SCO" isvisible="true" identifierref="__5lNnsqbHZDf_course_id_RES">
+        <title>Improvement Tool_Pugh Matrix</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5lNnsqbHZDf_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/6c0ja7eqyK6_44100_64_1.mp3" />
+      <file href="story_content/6iNKqcjxPlB_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/64STj5LkMY2_44100_64_1.mp3" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6ErTVdsZp4Q_80_P_0_22_1349_641_DX732_DY360_CX732_CY360.png" />
+      <file href="story_content/6ljRISPj68z_44100_64_1.mp3" />
+      <file href="mobile/6XfMVSsqujQ_80_DX732_DY319_CX732_CY319.jpg" />
+      <file href="story_content/5jDA9D8wcUq_44100_64_1.mp3" />
+      <file href="mobile/63YsB7RNZXK_80_DX1290_DY1290_CX1004_CY535.jpg" />
+      <file href="story_content/6mWeYQBQwsZ_44100_64_1.mp3" />
+      <file href="mobile/5bufqY5VJ4L_80_DX1270_DY1270_CX995_CY539.jpg" />
+      <file href="mobile/6g8xcIJJBAN_80_DX1270_DY1270_CX999_CY537.jpg" />
+      <file href="mobile/63R2UIZyIVD_80_DX1404_DY1404_CX1000_CY528.jpg" />
+      <file href="story_content/6IdtLkfRl8u_44100_64_1.mp3" />
+      <file href="mobile/63R2UIZyIVD_80_P_0_0_1019_51_DX1404_DY1404_CX1019_CY51.png" />
+      <file href="mobile/63R2UIZyIVD_80_P_0_437_1019_100_DX1404_DY1404_CX1019_CY101.png" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/5Y2akOKxZLd_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6chza0IBmRN_44100_64_1.mp3" />
+      <file href="story_content/5XYbdI1elY5_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/5iRVh5St09c.png" />
+      <file href="story_content/5yTxKtTjmBe.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Pugh Selection Matrix.xls" />
+      <file href="story_content/external_files/SA88 Tool_Pugh Matrix.pdf" />
+      <file href="mobile/txt__default_5pNJ0Qia8D6.png" />
+      <file href="mobile/txt__default_6fZ9n77bvCh.png" />
+      <file href="mobile/Shape63oYV90FJtc.png" />
+      <file href="mobile/Shape5q4aGyqc31a.png" />
+      <file href="mobile/txt__default_5iIVlceZDns.png" />
+      <file href="mobile/txt__default_6585u4yingx.png" />
+      <file href="mobile/txt__default_6ga03q3X5Va.png" />
+      <file href="mobile/txt__default_65AZbK3F9ef.png" />
+      <file href="mobile/txt__default_6LP3wLLj6UJ.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dLGJDFBjfc.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5qJcBZRxZLQ.js" />
+      <file href="html5/data/js/5w8A3qBCWY8.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/6BwypIx0BH6.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6FcsjitoaGY.js" />
+      <file href="html5/data/js/6fh1EAUQI7O.js" />
+      <file href="html5/data/js/6JL3Pauyge9.js" />
+      <file href="html5/data/js/6T1eQ1epeBE.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
