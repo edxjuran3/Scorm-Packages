@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6R0x5QCikSD_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Lean Tool: Kanban</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Lean_Tool:_Kanban_ORG">
+    <organization identifier="Lean_Tool:_Kanban_ORG">
+      <title>Lean Tool: Kanban</title>
+      <item identifier="Lean_Tool_Kanban_SCO" isvisible="true" identifierref="__6R0x5QCikSD_course_id_RES">
+        <title>Lean Tool_Kanban</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6R0x5QCikSD_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1811_1365_DX1626_DY1626_CX1131_CY852.png" />
+      <file href="story_content/6BCgT6At1m0_44100_64_1.mp3" />
+      <file href="story_content/5YBpLYjKzgX_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/5yEU3pZT9ZW_44100_64_1.mp3" />
+      <file href="mobile/5qkEBJEJXNk_80_P_49_0_121_182_DX442_DY442_CX121_CY182.png" />
+      <file href="story_content/67HzCSpWjyL_44100_64_1.mp3" />
+      <file href="mobile/6mpspdHT5zC_80_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="story_content/5Wa0FhNHRvw_44100_64_1.mp3" />
+      <file href="mobile/6lTKPogaqzK_80_P_572_0_902_1356_DX1632_DY1632_CX565_CY849.png" />
+      <file href="story_content/6gpEyQxuRj4_44100_64_1.mp3" />
+      <file href="mobile/6iBxa5MnucV_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5lGysx9b1LU_44100_64_1.mp3" />
+      <file href="mobile/5cMQRU6JkwR_80_P_66_0_266_400_DX800_DY800_CX266_CY400.png" />
+      <file href="story_content/6PGj9Gfx12V_44100_64_1.mp3" />
+      <file href="mobile/6KUMdE1PL1z_80_DX600_DY600_CX300_CY162.jpg" />
+      <file href="story_content/6YhwwGCQRQC_44100_64_1.mp3" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6PVgZukjrpx_80_DX732_DY605_CX732_CY605.jpg" />
+      <file href="story_content/6jG2CxaGCxR_44100_64_1.mp3" />
+      <file href="mobile/6TV4SObZTH0_80_DX550_DY550_CX275_CY183.jpg" />
+      <file href="story_content/5vFrkAUSvEb_44100_64_1.mp3" />
+      <file href="mobile/5ZaK3Dv8ejU_80_P_512_0_1022_1536_DX1440_DY1440_CX565_CY849.png" />
+      <file href="story_content/6cQJYUOfXJw_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6Txtrh5te1L_44100_64_1.mp3" />
+      <file href="story_content/6I1eRfvX8Jc_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="story_content/6l2CAlTPJvr_44100_64_1.mp3" />
+      <file href="mobile/6M4NbvhsQSj_80_P_519_0_1009_1516_DX1460_DY1460_CX565_CY849.png" />
+      <file href="story_content/64VgzaUivNB_44100_64_1.mp3" />
+      <file href="story_content/6ChK1eax6fB_44100_64_1.mp3" />
+      <file href="story_content/video_5cafb1VJSZz_21_64_486x280.mp4" />
+      <file href="mobile/poster_6TMQ5AnBOE3_video_5cafb1VJSZz_21_64_486x280.jpg" />
+      <file href="story_content/6TV3joYTH34_44100_64_1.mp3" />
+      <file href="story_content/video_6CaXd5b3nhm_21_64_440x240.mp4" />
+      <file href="mobile/poster_62HhG9Yu9fr_video_6CaXd5b3nhm_21_64_440x240.jpg" />
+      <file href="story_content/6mI54CipqsU_44100_64_1.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/5hD36xtdR2O.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA78 Tool_Kanban.pdf" />
+      <file href="mobile/Shape5UqWn7uXztW.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aYn4jiQJ2Y.js" />
+      <file href="html5/data/js/5f691VhLV9V.js" />
+      <file href="html5/data/js/5gyQ0MWsIU9.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5q68SBnnGLL.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5YYBFtaRcKB.js" />
+      <file href="html5/data/js/5z7vpDwgdAQ.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/67NhfcJlpFS.js" />
+      <file href="html5/data/js/68kXP0sEZFx.js" />
+      <file href="html5/data/js/6C1lds9thfb.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6eJ6He5JWzO.js" />
+      <file href="html5/data/js/6esqbIAEf3A.js" />
+      <file href="html5/data/js/6funfqH90zx.js" />
+      <file href="html5/data/js/6i47el9IfDN.js" />
+      <file href="html5/data/js/6kIBU3LO5EC.js" />
+      <file href="html5/data/js/6QhKZKqkGPb.js" />
+      <file href="html5/data/js/6qIKwJL5z7M.js" />
+      <file href="html5/data/js/6Tpu4HKSXrN.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
