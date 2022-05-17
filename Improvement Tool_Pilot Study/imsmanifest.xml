@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6WWP2T5bmUI_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Pilot Study</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Pilot_Study_ORG">
+    <organization identifier="Improvement_Tool:_Pilot_Study_ORG">
+      <title>Improvement Tool: Pilot Study</title>
+      <item identifier="Improvement_Tool_Pilot_Study_SCO" isvisible="true" identifierref="__6WWP2T5bmUI_course_id_RES">
+        <title>Improvement Tool_Pilot Study</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6WWP2T5bmUI_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/6lyyIUO1C9M_44100_64_1.mp3" />
+      <file href="story_content/5qDs4ZstntR_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/5ZtK3JOjVcw_44100_64_1.mp3" />
+      <file href="mobile/5i74uBU0DPo_80_DX1440_DY1440_CX1130_CY454.png" />
+      <file href="story_content/6dlSiMLKwYj_44100_64_1.mp3" />
+      <file href="story_content/66RaXr24Ed4_44100_64_1.mp3" />
+      <file href="story_content/5gRGJ5Yzonf_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/6Q2n0nrNz0s_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/67DLdnTJxUg_44100_64_1.mp3" />
+      <file href="story_content/63MdHyyY0lE_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="mobile/64kBKKl0bpm_80_DX2224_DY2224_CX566_CY1200.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/5rqJBqVb0gh.png" />
+      <file href="story_content/67dMA1F5DHC.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Pilot Plan Worksheet.doc" />
+      <file href="story_content/external_files/SA83 Tool_Pilot Study.pdf" />
+      <file href="mobile/txt__default_5h5GElnJFc8.png" />
+      <file href="mobile/txt__default_5bvXSX9wmAl.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dH7T29rS2R.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5hrDDR9yueJ.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5l7eDNl8mg3.js" />
+      <file href="html5/data/js/5wEMHKDSlaU.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/64ZXvrNqiwx.js" />
+      <file href="html5/data/js/69BSpxDN0b4.js" />
+      <file href="html5/data/js/6AHny4G9FKJ.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6dbQwaqORdd.js" />
+      <file href="html5/data/js/6ejE0KefvS0.js" />
+      <file href="html5/data/js/6EUqyiq2P1p.js" />
+      <file href="html5/data/js/6I78IL8ySds.js" />
+      <file href="html5/data/js/6J42gG3EmiB.js" />
+      <file href="html5/data/js/6jKNX7foo98.js" />
+      <file href="html5/data/js/6KQYPyfQWhM.js" />
+      <file href="html5/data/js/6Mc5eCDupUC.js" />
+      <file href="html5/data/js/6RjBVpPsnRt.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6VWOymwP2Lt.js" />
+      <file href="html5/data/js/6XgtueRBg5c.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
