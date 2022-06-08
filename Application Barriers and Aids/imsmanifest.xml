@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6ez9hbxMk6g_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Application: Barriers and Aids</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Application:_Barriers_and_Aids_ORG">
+    <organization identifier="Application:_Barriers_and_Aids_ORG">
+      <title>Application: Barriers and Aids</title>
+      <item identifier="Application:_Barriers_and_Aids_SCO" isvisible="true" identifierref="__6ez9hbxMk6g_course_id_RES">
+        <title>Application: Barriers and Aids</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6ez9hbxMk6g_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6N1ByjPycbI_80_P_0_0_1826_1367_DX1616_DY1616_CX1081_CY809.png" />
+      <file href="mobile/5kDD3sYuzQl_80_P_569_0_908_1365_DX1620_DY1620_CX539_CY810.png" />
+      <file href="mobile/6pWrYqoCTL3_80_P_569_0_908_1365_DX1620_DY1620_CX539_CY810.png" />
+      <file href="mobile/6p85t1Ek7Ef_80_P_569_0_908_1365_DX1620_DY1620_CX539_CY810.png" />
+      <file href="mobile/5zNPJYXNWYz_80_P_569_0_908_1365_DX1620_DY1620_CX539_CY810.png" />
+      <file href="mobile/6eZQEs6YKMT_80_P_569_0_908_1365_DX1620_DY1620_CX539_CY810.png" />
+      <file href="mobile/6Kl3sI5lyJh_80_P_0_428_1587_1190_DX1858_DY1858_CX1080_CY810.png" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1080_CY810.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6TVZwMEwCEG.png" />
+      <file href="mobile/txt__default_66K6fHJUjJS.png" />
+      <file href="mobile/txt__default_5qtdr0yiaTB.png" />
+      <file href="mobile/txt__default_5YmMpwh3JTQ.png" />
+      <file href="mobile/txt__default_6RAFWaGiGzG.png" />
+      <file href="mobile/txt__default_6ZyOUcblaow.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5f51UtfY3rS.js" />
+      <file href="html5/data/js/5j6nJRRifYI.js" />
+      <file href="html5/data/js/5npl3uQbVfZ.js" />
+      <file href="html5/data/js/5puwH9UCplB.js" />
+      <file href="html5/data/js/5uEABe01a5Y.js" />
+      <file href="html5/data/js/5vFTyxoiVNa.js" />
+      <file href="html5/data/js/5ZBgEOjYVD4.js" />
+      <file href="html5/data/js/5ZYwoDLGmoW.js" />
+      <file href="html5/data/js/60BX64jMEek.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/6AfnCG20ExW.js" />
+      <file href="html5/data/js/6bIgTbZT2IF.js" />
+      <file href="html5/data/js/6GDuprtJAbD.js" />
+      <file href="html5/data/js/6GNiqcbZImO.js" />
+      <file href="html5/data/js/6LoFGqB1mVU.js" />
+      <file href="html5/data/js/6N15So3ttRD.js" />
+      <file href="html5/data/js/6qOyRS3rjtA.js" />
+      <file href="html5/data/js/6qpuRFnf1N8.js" />
+      <file href="html5/data/js/6YId9okfqK5.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>

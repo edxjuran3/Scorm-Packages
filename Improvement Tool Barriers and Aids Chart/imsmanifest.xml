@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5puIwVfNHpt_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Barriers and Aids Chart</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Barriers_and_Aids_Chart_ORG">
+    <organization identifier="Improvement_Tool:_Barriers_and_Aids_Chart_ORG">
+      <title>Improvement Tool: Barriers and Aids Chart</title>
+      <item identifier="Improvement_Tool:_Barriers_and_Aids_Chart_SCO" isvisible="true" identifierref="__5puIwVfNHpt_course_id_RES">
+        <title>Improvement Tool: Barriers and Aids Chart</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5puIwVfNHpt_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1078_CY809.png" />
+      <file href="story_content/6BQtNsqHjHc_22050_64_1.mp3" />
+      <file href="story_content/6JC0eWFJjfa_22050_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX768_CY201.png" />
+      <file href="story_content/6m0cSwMdkOq_22050_64_1.mp3" />
+      <file href="story_content/5qIvQ0nH6Kq_22050_64_1.mp3" />
+      <file href="story_content/6O1gRHXF28r_22050_64_1.mp3" />
+      <file href="story_content/6RmXBAnpSdG_22050_64_1.mp3" />
+      <file href="mobile/63x3MLTrwmp_80_P_569_0_908_1365_DX1620_DY1620_CX539_CY810.png" />
+      <file href="story_content/5f0F8V8AQKf_22050_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX539_CY810.png" />
+      <file href="story_content/5rOvc7azjaR_22050_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX539_CY810.png" />
+      <file href="story_content/6ayshIW7b5D_22050_64_1.mp3" />
+      <file href="story_content/6FWUQPA3dh3_22050_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1080_CY810.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_63ah8KXe4wS.png" />
+      <file href="mobile/txt__default_6ZKRkJia16w.png" />
+      <file href="mobile/txt__default_5v38XxEgyPn.png" />
+      <file href="mobile/txt__default_6MKLDQInA17.png" />
+      <file href="mobile/txt__default_6nOBg98sd4d.png" />
+      <file href="mobile/txt__default_6HBGqyfsOlt.png" />
+      <file href="mobile/txt__default_6G5VLLNqtlc.png" />
+      <file href="mobile/txt__default_5kXq1pvUpmI.png" />
+      <file href="mobile/txt__default_6pEYaPhAB80.png" />
+      <file href="mobile/txt__default_6MjLbI03GPS.png" />
+      <file href="mobile/txt__default_5yzls47oRpi.png" />
+      <file href="mobile/txt__default_5iNsuMi5xca.png" />
+      <file href="mobile/txt__default_5jYsRUlJIYZ.png" />
+      <file href="mobile/txt__default_63Y3jMJ6am4.png" />
+      <file href="mobile/txt__default_5cIttWBBZ1S.png" />
+      <file href="mobile/txt__default_5q5n0t3NwyT.png" />
+      <file href="mobile/txt__default_5fwkx3sVNx0.png" />
+      <file href="mobile/txt__default_5vcWFMZlfrd.png" />
+      <file href="mobile/txt__default_5WddjsBo70K.png" />
+      <file href="mobile/txt__default_6G7wRvCjFL2.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5c8I4a1mHbZ.js" />
+      <file href="html5/data/js/5dGiloFKS8q.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5Us0Maj3DfX.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/6BFPb4FESwI.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6fh1EAUQI7O.js" />
+      <file href="html5/data/js/6MenCOBZMve.js" />
+      <file href="html5/data/js/6oL2da6Nqua.js" />
+      <file href="html5/data/js/6rTc9VSG6rU.js" />
+      <file href="html5/data/js/6S6GyFeGsJU.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6WvxpedEXch.js" />
+      <file href="html5/data/js/6XEaNAKMzjL.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
